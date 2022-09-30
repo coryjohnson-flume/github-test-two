@@ -27,10 +27,10 @@ jobs:
       - name: Install release-version
         run: go install github.com/flume/release-version@latest
 
-      #- name: Git Config
-      #  run: |-
-      #    git config user.name coryjohnson-flume
-      #    git config user.email cory.johnson@flumehealth.com
+      - name: Git Config
+        run: |-
+          git config user.name coryjohnson-flume
+          git config user.email cory.johnson@flumehealth.com
 
       - name: Check Release
         run: release-version semver
