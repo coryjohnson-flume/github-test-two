@@ -10,10 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         uses: actions/checkout@v3
         with:
+          ssh-key: '${{ secrets.SSH_KEY }}'
           fetch-depth: 0
 
       - uses: actions/setup-go@v3
@@ -33,6 +32,4 @@ jobs:
         run: release-version semver
 
       - name: Create Release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: release-version release
