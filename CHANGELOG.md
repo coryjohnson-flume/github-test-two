@@ -1,3 +1,10 @@
+## [1.1.17](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.16...1.1.17) (2022-10-03)
+
+
+### Bug Fixes
+
+* husky ([f457614](https://github.com/coryjohnson-flume/github-test-two/commit/f4576143e28bc21edf605489b5d3900491375499))
+
 ## [1.1.16](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.15...1.1.16) (2022-10-03)
 
 
