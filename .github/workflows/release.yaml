@@ -30,6 +30,9 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Move package.json to dist
+        run: mv package.json dist
+
       - name: NPM CI and Release
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_GH }}
@@ -39,3 +42,6 @@ jobs:
       - name: Change package.json private to true
         run: |
           sed -i 's/"private": false/"private": true/g' package.json
+
+      - name: Move package.json back to root
+        run: npm run postversion

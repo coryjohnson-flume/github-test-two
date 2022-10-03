@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release",
     "prepare": "husky install",
-    "build": "babel index.js -d dist"
+    "build": "babel index.js -d dist",
+    "postversion": "cp -r package.json .."
   },
   "husky": {
     "hooks": {
