@@ -1,3 +1,11 @@
+## [1.1.6](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.5...1.1.6) (2022-10-03)
+
+
+### Bug Fixes
+
+* back to gh token ([841212c](https://github.com/coryjohnson-flume/github-test-two/commit/841212c0acebe751cbff154bfa70732793e2a3c2))
+* try different ssh ([599aa4b](https://github.com/coryjohnson-flume/github-test-two/commit/599aa4bd8d1ea40f20cc1086058814a90aea92c0))
+
 ## [1.1.5](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.4...1.1.5) (2022-10-03)
 
 
