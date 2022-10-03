@@ -20,4 +20,5 @@ jobs:
       - name: NPM CI and Release
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm ci && npx semantic-release
