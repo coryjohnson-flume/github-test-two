@@ -1,19 +1,23 @@
 {
   "name": "github-test-two",
-  "version": "1.0.1",
+  "version": "0.0.0-development",
   "description": "asdfsaddf",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coryjohnson-flume/github-test-two.git"
+    "url": "https://github.com/coryjohnson-flume/github-test-two.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/coryjohnson-flume/github-test-two/issues"
   },
-  "homepage": "https://github.com/coryjohnson-flume/github-test-two#readme"
+  "homepage": "https://github.com/coryjohnson-flume/github-test-two#readme",
+  "devDependencies": {
+    "semantic-release": "^19.0.5"
+  }
 }
