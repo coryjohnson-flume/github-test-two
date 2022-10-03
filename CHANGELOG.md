@@ -1,3 +1,12 @@
+## [1.1.19](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.18...1.1.19) (2022-10-03)
+
+
+### Bug Fixes
+
+* add husky ([3b64fa7](https://github.com/coryjohnson-flume/github-test-two/commit/3b64fa742245ce1a0e6a4dd132e187d41cf56247))
+* husky 1 ([6464548](https://github.com/coryjohnson-flume/github-test-two/commit/64645487c8e2968c9ad8dda503152f96e306d1c8))
+* try prepare diff ([da768d0](https://github.com/coryjohnson-flume/github-test-two/commit/da768d0c20e743b1b840396161009a0d26e1f99a))
+
 ## [1.1.18](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.17...1.1.18) (2022-10-03)
 
 
