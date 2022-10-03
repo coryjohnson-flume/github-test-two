@@ -31,7 +31,7 @@ jobs:
         run: npm run build
 
       - name: Move package.json to dist
-        run: mv package.json dist
+        run: cp package.json ./dist
 
       - name: NPM CI and Release
         env:
