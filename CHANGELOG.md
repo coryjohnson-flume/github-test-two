@@ -1,3 +1,14 @@
+## [1.1.14](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.13...1.1.14) (2022-10-03)
+
+
+### Bug Fixes
+
+* add build steps ([150a9f6](https://github.com/coryjohnson-flume/github-test-two/commit/150a9f6b6427615f2ac44613f8e0f1959a16ceb2))
+* move around ([74151f5](https://github.com/coryjohnson-flume/github-test-two/commit/74151f5d26d694254f1d4963b4dad0871b634e48))
+* move dist release ([43b3290](https://github.com/coryjohnson-flume/github-test-two/commit/43b3290528df9c49d218ebad1176e8bd7b90f160))
+* move package json around ([d480c8b](https://github.com/coryjohnson-flume/github-test-two/commit/d480c8b80846afa9ccbcc8b113ee07c9ad655024))
+* updated with babel ([856b000](https://github.com/coryjohnson-flume/github-test-two/commit/856b00058f339625116b9edc52dd652f401a1c7c))
+
 ## [1.1.13](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.12...1.1.13) (2022-10-03)
 
 
