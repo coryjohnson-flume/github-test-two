@@ -7,6 +7,35 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
   },
+  "release": {
+    "branches": [
+    "main",
+    {
+      "name": "beta",
+      "prerelease": true
+    }
+    ],
+    "tagFormat": "${version}",
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      [
+        "@semantic-release/changelog",
+        {
+          "changeLogFile": "CHANGELOG.md"
+        }
+      ],
+      "@semantic-release/npm",
+      "@semantic-release/github",
+      [
+        "@semantic-release/git",
+        {
+          "assets": ["CHANGELOG.md", "dist/**"],
+          "message": "set `package.json` to ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+        }
+      ]
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/coryjohnson-flume/github-test-two.git"
