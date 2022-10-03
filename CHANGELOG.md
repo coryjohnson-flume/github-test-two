@@ -1,3 +1,10 @@
+## [1.1.7](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.6...1.1.7) (2022-10-03)
+
+
+### Bug Fixes
+
+* set new PAT on release ([00bfb55](https://github.com/coryjohnson-flume/github-test-two/commit/00bfb55471412fa6bffa7dd45236cedf1d56d45b))
+
 ## [1.1.6](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.5...1.1.6) (2022-10-03)
 
 
