@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.9...1.0.10) (2022-10-03)
+
+
+### Bug Fixes
+
+* release permissions ([f308aff](https://github.com/coryjohnson-flume/github-test-two/commit/f308aff797cb959cb1495d5602156a4d79542209))
+
 ## [1.0.9](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.8...1.0.9) (2022-10-03)
 
 
