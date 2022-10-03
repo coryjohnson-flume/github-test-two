@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.2...1.0.3) (2022-10-03)
+
+
+### Bug Fixes
+
+* trigger release ([af4ba59](https://github.com/coryjohnson-flume/github-test-two/commit/af4ba59d072deff73bd77e507184ebc4063f1fea))
+
 ## [1.0.2](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.1...1.0.2) (2022-10-03)
 
 
