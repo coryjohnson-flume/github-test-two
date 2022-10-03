@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.2...1.1.3) (2022-10-03)
+
+
+### Bug Fixes
+
+* relesae v ([159ffba](https://github.com/coryjohnson-flume/github-test-two/commit/159ffba2fb468bae053bb4241b5c0765849449b1))
+
 ## [1.1.2](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.1...1.1.2) (2022-10-03)
 
 
