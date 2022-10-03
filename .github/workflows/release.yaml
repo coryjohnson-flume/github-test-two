@@ -20,6 +20,10 @@ jobs:
         with:
           node-version: 16.13.0
 
+      - name: Change package.json private to false
+        run: |
+          sed -i 's/"private": true/"private": false/g' package.json
+
       - name: NPM CI and Release
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_GH }}
