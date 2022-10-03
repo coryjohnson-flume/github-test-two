@@ -1,3 +1,10 @@
+## [1.1.8](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.7...1.1.8) (2022-10-03)
+
+
+### Bug Fixes
+
+* update token on checkout ([4550fef](https://github.com/coryjohnson-flume/github-test-two/commit/4550fef19b6f9c8b4b3a845cf6282d3630df546d))
+
 ## [1.1.7](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.6...1.1.7) (2022-10-03)
 
 
