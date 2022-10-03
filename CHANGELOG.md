@@ -1,3 +1,10 @@
+## [1.1.18](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.17...1.1.18) (2022-10-03)
+
+
+### Bug Fixes
+
+* remove step ([af57263](https://github.com/coryjohnson-flume/github-test-two/commit/af572633bb1e9d0b887e9a2a11646744b3d20ead))
+
 ## [1.1.17](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.16...1.1.17) (2022-10-03)
 
 
