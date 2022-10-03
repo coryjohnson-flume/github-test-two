@@ -1,3 +1,13 @@
+## [1.0.4](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.3...1.0.4) (2022-10-03)
+
+
+### Bug Fixes
+
+* enforce commit msg ([e174db5](https://github.com/coryjohnson-flume/github-test-two/commit/e174db5a514131812f4d272a86c8bceaee75f091))
+* npm semantic, no publish ([2d60b4e](https://github.com/coryjohnson-flume/github-test-two/commit/2d60b4e6f4f3503b56cc0b06b708a136405a2009))
+* set message to chore for husky ([baf02dc](https://github.com/coryjohnson-flume/github-test-two/commit/baf02dc9f9166b837b579b8e5ef48e514fb7eb76))
+* updated mesage ([c81ac3c](https://github.com/coryjohnson-flume/github-test-two/commit/c81ac3cea5cd0c5f70c9aa370cab6afd2a5e14c3))
+
 ## [1.0.3](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.2...1.0.3) (2022-10-03)
 
 
