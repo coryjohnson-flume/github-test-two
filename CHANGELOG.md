@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.4...1.0.5) (2022-10-03)
+
+
+### Bug Fixes
+
+* set private true ([a0f0bfa](https://github.com/coryjohnson-flume/github-test-two/commit/a0f0bfac91c731a8c95a81e7908938f94c76ed5d))
+
 ## [1.0.4](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.3...1.0.4) (2022-10-03)
 
 
