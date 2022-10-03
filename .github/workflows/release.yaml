@@ -37,7 +37,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_GH }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: mkdir .git && npx semantic-release
+        run: npx semantic-release
 
       - name: Change package.json private to true
         run: |
