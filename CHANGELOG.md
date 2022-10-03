@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.1...1.0.2) (2022-10-03)
+
+
+### Bug Fixes
+
+* more file adds ([2013ebc](https://github.com/coryjohnson-flume/github-test-two/commit/2013ebca4fec08bb049c592b6654db2646f395f5))
+
 ## [1.0.1](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.0...1.0.1) (2022-10-03)
 
 
