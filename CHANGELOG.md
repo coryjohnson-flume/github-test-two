@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.5...1.0.6) (2022-10-03)
+
+
+### Bug Fixes
+
+* npm publish ([500b5e9](https://github.com/coryjohnson-flume/github-test-two/commit/500b5e93acc8fc818456ee5f1664cb25ea0c0b9a))
+
 ## [1.0.5](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.4...1.0.5) (2022-10-03)
 
 
