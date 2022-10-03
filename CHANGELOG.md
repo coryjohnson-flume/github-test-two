@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.0...1.0.1) (2022-10-03)
+
+
+### Bug Fixes
+
+* add commitlint, remove npm ([63ec357](https://github.com/coryjohnson-flume/github-test-two/commit/63ec357067f11339713ba422aa9bb1711b6000f6))
+
 # 1.0.0 (2022-10-03)
 
 
