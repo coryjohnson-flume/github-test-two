@@ -1,8 +1,11 @@
 name: On Tag
+
 on:
   push:
     tags:
       - '*'
+
+permissions: write-all
 
 jobs:
   release:
