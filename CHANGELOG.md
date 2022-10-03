@@ -1,3 +1,10 @@
+## [1.1.12](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.11...1.1.12) (2022-10-03)
+
+
+### Bug Fixes
+
+* change name ([4eda0e3](https://github.com/coryjohnson-flume/github-test-two/commit/4eda0e3bf1ca6b0c867cc009f08dfbc8d73f0b72))
+
 ## [1.1.11](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.10...1.1.11) (2022-10-03)
 
 
