@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.8...1.0.9) (2022-10-03)
+
+
+### Bug Fixes
+
+* on tag workflow ([9828b31](https://github.com/coryjohnson-flume/github-test-two/commit/9828b31efee8ec1108dfdea1d5fc4319c28f03a1))
+
 ## [1.0.8](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.7...1.0.8) (2022-10-03)
 
 
