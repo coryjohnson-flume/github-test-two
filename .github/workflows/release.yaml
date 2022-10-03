@@ -35,7 +35,6 @@ jobs:
 
       - name: Husky Setup
         run: |
-          cd ./dist
           npx husky install
           npx husky add .husky/commit-msg  "npx --no -- commitlint --edit ${1}"
 
