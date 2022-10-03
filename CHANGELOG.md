@@ -1,3 +1,10 @@
+## [1.1.20](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.19...1.1.20) (2022-10-03)
+
+
+### Bug Fixes
+
+* enforced commits ([65b6375](https://github.com/coryjohnson-flume/github-test-two/commit/65b637578adddb020eb8006dd6846722de73972a))
+
 ## [1.1.19](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.18...1.1.19) (2022-10-03)
 
 
