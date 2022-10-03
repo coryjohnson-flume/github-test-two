@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.11...1.1.0) (2022-10-03)
+
+
+### Features
+
+* five release ([581eed7](https://github.com/coryjohnson-flume/github-test-two/commit/581eed7b71625f08333d96167de2676acbac6741))
+
 ## [1.0.11](https://github.com/coryjohnson-flume/github-test-two/compare/1.0.10...1.0.11) (2022-10-03)
 
 
