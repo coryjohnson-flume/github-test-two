@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "build": "babel index.js -d dist"
   },
   "husky": {
     "hooks": {
@@ -74,6 +75,9 @@
   },
   "homepage": "https://github.com/coryjohnson-flume/github-test-two#readme",
   "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.3",
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
     "@semantic-release/changelog": "^6.0.1",
