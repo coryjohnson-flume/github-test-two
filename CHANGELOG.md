@@ -1,3 +1,10 @@
+## [1.1.13](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.12...1.1.13) (2022-10-03)
+
+
+### Bug Fixes
+
+* updated release workflow ([ca3d11e](https://github.com/coryjohnson-flume/github-test-two/commit/ca3d11ee766b55bbc64eb45e1b40370763cf7dad))
+
 ## [1.1.12](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.11...1.1.12) (2022-10-03)
 
 
