@@ -1,3 +1,11 @@
+## [1.1.11](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.10...1.1.11) (2022-10-03)
+
+
+### Bug Fixes
+
+* add npm token ([af4ec04](https://github.com/coryjohnson-flume/github-test-two/commit/af4ec040cbc55232e7d0ef5d5989303d8f7b6d4e))
+* try updating package json to publish npm ([cb8a19e](https://github.com/coryjohnson-flume/github-test-two/commit/cb8a19e7ad2b0e29b62317e7a684683d9b8345f2))
+
 ## [1.1.10](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.9...1.1.10) (2022-10-03)
 
 
