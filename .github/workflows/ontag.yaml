@@ -1,12 +1,11 @@
 name: On Tag
 on:
-  push:
-    tags:
-      - '*'
+  create:
 
 jobs:
   release:
     runs-on: ubuntu-latest
+    if: ${{ startsWith(github.ref, 'refs/tags/*') }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
