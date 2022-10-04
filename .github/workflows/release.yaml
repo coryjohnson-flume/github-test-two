@@ -3,8 +3,6 @@ name: Build and Tag
 on:
   workflow_dispatch:
 
-permissions: write-all
-
 jobs:
   release:
     runs-on: ubuntu-latest
