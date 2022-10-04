@@ -4,6 +4,10 @@
   "description": "asdfsaddf",
   "main": "index.js",
   "private": false,
+  "files": [
+    "/main.d.ts",
+    "/dist"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release",
@@ -42,7 +46,9 @@
     "tagFormat": "${version}",
     "plugins": [
       "@semantic-release/commit-analyzer",
-      "@semantic-release/npm",
+      ["@semantic-release/npm", {
+        "pkgRoot": "./dist"
+      }],
       "@semantic-release/release-notes-generator",
       [
         "@semantic-release/changelog",
