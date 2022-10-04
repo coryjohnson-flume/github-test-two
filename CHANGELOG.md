@@ -1,3 +1,10 @@
+## [1.2.11](https://github.com/coryjohnson-flume/github-test-two/compare/1.2.10...1.2.11) (2022-10-04)
+
+
+### Bug Fixes
+
+* cleanup and change package ([#15](https://github.com/coryjohnson-flume/github-test-two/issues/15)) ([04fc757](https://github.com/coryjohnson-flume/github-test-two/commit/04fc7574172a11eb540fd6d65d5a919bd576b19d))
+
 ## [1.2.10](https://github.com/coryjohnson-flume/github-test-two/compare/1.2.9...1.2.10) (2022-10-04)
 
 
