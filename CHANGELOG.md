@@ -1,3 +1,10 @@
+## [1.2.7](https://github.com/coryjohnson-flume/github-test-two/compare/1.2.6...1.2.7) (2022-10-04)
+
+
+### Bug Fixes
+
+* just packagejson file ([#11](https://github.com/coryjohnson-flume/github-test-two/issues/11)) ([d4bcea5](https://github.com/coryjohnson-flume/github-test-two/commit/d4bcea549e035a485147118a22f044d4ca68a674))
+
 ## [1.2.6](https://github.com/coryjohnson-flume/github-test-two/compare/1.2.5...1.2.6) (2022-10-04)
 
 
