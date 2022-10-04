@@ -42,12 +42,7 @@
     "tagFormat": "${version}",
     "plugins": [
       "@semantic-release/commit-analyzer",
-      [
-        "@semantic-release/npm",
-        {
-          "pkgRoot": "dist"
-        }
-      ],
+      "@semantic-release/npm",
       "@semantic-release/release-notes-generator",
       [
         "@semantic-release/changelog",
