@@ -1,3 +1,10 @@
+## [1.2.9](https://github.com/coryjohnson-flume/github-test-two/compare/1.2.8...1.2.9) (2022-10-04)
+
+
+### Bug Fixes
+
+* try new npm settings ([#13](https://github.com/coryjohnson-flume/github-test-two/issues/13)) ([6b97301](https://github.com/coryjohnson-flume/github-test-two/commit/6b973014368d3d557fd46ecf7efe3f5c29da413e))
+
 ## [1.2.8](https://github.com/coryjohnson-flume/github-test-two/compare/1.2.7...1.2.8) (2022-10-04)
 
 
