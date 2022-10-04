@@ -1,3 +1,10 @@
+## [1.2.6](https://github.com/coryjohnson-flume/github-test-two/compare/1.2.5...1.2.6) (2022-10-04)
+
+
+### Bug Fixes
+
+* github push ([#10](https://github.com/coryjohnson-flume/github-test-two/issues/10)) ([e716afe](https://github.com/coryjohnson-flume/github-test-two/commit/e716afe18bc7a7dd0314bc4af4fa5d7aebd70a8a))
+
 ## [1.2.5](https://github.com/coryjohnson-flume/github-test-two/compare/1.2.4...1.2.5) (2022-10-04)
 
 
