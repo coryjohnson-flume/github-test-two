@@ -61,7 +61,6 @@
         {
           "assets": [
             "CHANGELOG.md",
-            "dist/**",
             "package.json",
             "package-lock.json"
           ],
