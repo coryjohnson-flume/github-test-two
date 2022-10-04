@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/coryjohnson-flume/github-test-two/compare/1.2.1...1.2.2) (2022-10-04)
+
+
+### Bug Fixes
+
+* remove dist ([#6](https://github.com/coryjohnson-flume/github-test-two/issues/6)) ([7164a34](https://github.com/coryjohnson-flume/github-test-two/commit/7164a34b402cb7cd6e019114bab047c61a045c54))
+
 ## [1.2.1](https://github.com/coryjohnson-flume/github-test-two/compare/1.2.0...1.2.1) (2022-10-04)
 
 
