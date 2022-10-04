@@ -1,3 +1,10 @@
+## [1.2.5](https://github.com/coryjohnson-flume/github-test-two/compare/1.2.4...1.2.5) (2022-10-04)
+
+
+### Bug Fixes
+
+* move package json from dist ([#9](https://github.com/coryjohnson-flume/github-test-two/issues/9)) ([2ce236c](https://github.com/coryjohnson-flume/github-test-two/commit/2ce236c64792bbacdc0a18a08cd867828d426ca8))
+
 ## [1.2.4](https://github.com/coryjohnson-flume/github-test-two/compare/1.2.3...1.2.4) (2022-10-04)
 
 
