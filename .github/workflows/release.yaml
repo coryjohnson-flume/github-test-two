@@ -48,3 +48,11 @@ jobs:
 
       - name: Move package.json back to root, override existing
         run: cp ./dist/package.json ../package.json
+
+      - name: Commit and push
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add .
+          git commit -m "chore: update package.json"
+          git push
