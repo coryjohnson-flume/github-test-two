@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.20...1.2.0) (2022-10-04)
+
+
+### Bug Fixes
+
+* permissions ([d562604](https://github.com/coryjohnson-flume/github-test-two/commit/d562604885fae314aee5216cf5843886ddf86bca))
+
+
+### Features
+
+* attempt 1 ([94846b7](https://github.com/coryjohnson-flume/github-test-two/commit/94846b73528b4c2da2234a72dbc13706c652ae84))
+
 ## [1.1.20](https://github.com/coryjohnson-flume/github-test-two/compare/1.1.19...1.1.20) (2022-10-03)
 
 
