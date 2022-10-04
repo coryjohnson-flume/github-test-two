@@ -1,9 +1,9 @@
 {
   "name": "github-test-two-three-four",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "asdfsaddf",
   "main": "index.js",
-  "private": true,
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release",
