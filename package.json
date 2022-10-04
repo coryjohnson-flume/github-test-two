@@ -1,6 +1,6 @@
 {
   "name": "github-test-two-three-four",
-  "version": "1.2.9",
+  "version": "1.2.10",
   "description": "asdfsaddf",
   "main": "index.js",
   "private": false,
@@ -46,9 +46,12 @@
     "tagFormat": "${version}",
     "plugins": [
       "@semantic-release/commit-analyzer",
-      ["@semantic-release/npm", {
-        "pkgRoot": "./dist"
-      }],
+      [
+        "@semantic-release/npm",
+        {
+          "pkgRoot": "./dist"
+        }
+      ],
       "@semantic-release/release-notes-generator",
       [
         "@semantic-release/changelog",
