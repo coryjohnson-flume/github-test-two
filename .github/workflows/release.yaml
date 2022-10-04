@@ -47,4 +47,4 @@ jobs:
           sed -i 's/"private": false/"private": true/g' package.json
 
       - name: Move package.json back to root, override existing
-        run: cp package.json ./
+        run: cp ./dist/package.json ../package.json
