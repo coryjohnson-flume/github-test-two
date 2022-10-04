@@ -41,3 +41,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT_GH }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npm run semantic-release
+ 
