@@ -28,9 +28,6 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Move package.json to dist
-        run: cp package.json ./dist
-
       - name: Husky Setup
         run: |
           npx husky install
@@ -41,4 +38,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT_GH }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npm run semantic-release
- 

@@ -2,7 +2,7 @@
   "name": "github-test-two-three-four",
   "version": "1.2.10",
   "description": "asdfsaddf",
-  "main": "index.js",
+  "main": "dist/main.js",
   "private": false,
   "files": [
     "/main.d.ts",
@@ -11,7 +11,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release",
-    "build": "babel index.js -d dist",
+    "build": "rollup -c rollup.config.prod.js",
     "postversion": "cp -r package.json ..",
     "prepare": "cd .. && husky install dist/.husky"
   },
@@ -46,12 +46,7 @@
     "tagFormat": "${version}",
     "plugins": [
       "@semantic-release/commit-analyzer",
-      [
-        "@semantic-release/npm",
-        {
-          "pkgRoot": "./dist"
-        }
-      ],
+      "@semantic-release/npm",
       "@semantic-release/release-notes-generator",
       [
         "@semantic-release/changelog",
@@ -97,6 +92,14 @@
     "@semantic-release/release-notes-generator": "^10.0.3",
     "husky": "^8.0.1",
     "pretty-quick": "^3.1.3",
-    "semantic-release": "^19.0.5"
+    "semantic-release": "^19.0.5",
+    "@rollup/plugin-commonjs": "^17.1.0",
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^11.2.0",
+    "rollup": "^2.40.0",
+    "rollup-plugin-postcss": "^4.0.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "rollup-plugin-typescript2": "^0.30.0",
+    "@svgr/rollup": "^6.1.2"
   }
 }
